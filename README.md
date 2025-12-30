@@ -1,0 +1,1 @@
+This is a learning file of how to program with python to HTML, when working with Large Data, This is how I made the .js ( javascript file ) for animating the art with Writers Jumbler, you can download the code of writersJumbler Dot Com on my other account on Github, and see how it works. Or, visit https://www.writersjumbler.com
